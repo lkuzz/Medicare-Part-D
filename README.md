@@ -1,6 +1,6 @@
 # Medicare Part D Prescribers:
 ## STA 141B Final Project
-#### By: Liam Kussman (SID: 912048480)
+#### By: Liam Kussman
 
 According to a variety of news sources, such as the [Huffington Post](https://www.huffingtonpost.com/entry/the-high-cost-of-prescription-drugs-in-the-united-states_us_59a606aae4b0d81379a81c1f), the price of prescription drugs per capita is higher in the U.S. than in any other country in the world.  During my personal experience working as an Actuarial Intern for the Marsh & McLennan Agency, a private health insurance broker, I learned that it was industry wide practice to assume a **8-12% rise in prescription drug costs per person every year** when forecasting future plan costs.  This is roughly equivalent to assuming that the cost of prescriptions per person to double every **6 - 9 years**.  As someone with a lot less experience in the health insurance field than my peers, I found it extreme to assume that costs of prescriptions increased so drastically every year.
 
